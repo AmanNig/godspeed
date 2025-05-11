@@ -140,7 +140,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - Aman Nigam
 
-Live On Here: [Demo Here](https://6821360ebc4a58be4d22d135--frolicking-florentine-ee4e2e.netlify.app/)
+Live On Here: [Demo Here](https://amangodspeed.netlify.app/)
 
 ## 🙏 Acknowledgments
 
