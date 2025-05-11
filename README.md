@@ -44,19 +44,52 @@ The application will open in your default browser at `http://localhost:3000`.
 
 ## 🏗️ Project Structure
 
+```
 landingpage/
-├── public/
-│ ├── index.html
-│ └── assets/
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── styles/
-│ ├── utils/
-│ ├── App.js
-│ └── index.js
-├── package.json
-└── README.md
+├── public/                  # Public assets
+│   ├── index.html          # Main HTML file
+│   ├── favicon.ico         # Favicon
+│   └── assets/             # Static assets
+│       ├── images/         # Image files
+│       └── fonts/          # Font files
+│
+├── src/                    # Source files
+│   ├── components/         # Reusable components
+│   │   ├── common/        # Common components
+│   │   │   ├── Button/
+│   │   │   ├── Card/
+│   │   │   └── Navbar/
+│   │   └── sections/      # Page sections
+│   │       ├── Hero/
+│   │       ├── Features/
+│   │       └── Contact/
+│   │
+│   ├── pages/             # Page components
+│   │   ├── Home/
+│   │   └── About/
+│   │
+│   ├── styles/            # Styling files
+│   │   ├── global.css     # Global styles
+│   │   └── variables.css  # CSS variables
+│   │
+│   ├── utils/             # Utility functions
+│   │   ├── helpers.js
+│   │   └── constants.js
+│   │
+│   ├── hooks/             # Custom React hooks
+│   │   └── useScroll.js
+│   │
+│   ├── context/           # React context
+│   │   └── ThemeContext.js
+│   │
+│   ├── App.js             # Main App component
+│   └── index.js           # Entry point
+│
+├── package.json           # Project dependencies
+├── package-lock.json      # Dependency lock file
+├── .gitignore            # Git ignore file
+└── README.md             # Project documentation
+```
 
 ## 🎨 Customization
 
@@ -114,3 +147,23 @@ Project Link: [https://github.com/yourusername/react-landing-page-template](http
 - [React Icons](https://react-icons.github.io/react-icons/)
 - [Google Fonts](https://fonts.google.com/)
 - Any other resources or libraries used in the project
+
+### Key Directories and Files
+
+- **`public/`**: Contains static files that are served directly
+  - `index.html`: The main HTML file
+  - `assets/`: Static assets like images and fonts
+
+- **`src/`**: Contains all the source code
+  - `components/`: Reusable React components
+    - `common/`: Shared components like buttons, cards, etc.
+    - `sections/`: Page section components
+  - `pages/`: Full page components
+  - `styles/`: CSS and styling files
+  - `utils/`: Helper functions and constants
+  - `hooks/`: Custom React hooks
+  - `context/`: React context providers
+
+- **Configuration Files**:
+  - `package.json`: Project metadata and dependencies
+  - `.gitignore`: Specifies files to be ignored by Git
