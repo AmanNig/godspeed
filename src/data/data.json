@@ -1,0 +1,172 @@
+{
+  "Header": {
+    "title": "We are GodSpeed",
+    "paragraph": "Empowering Founders and Students, Accelerating Startups and Scaling Success."
+  },
+  "About": {
+    "paragraph": "At Godspeed, we empower founders to build, scale and grow their startups with cutting-edge AI-powered technology, a resourceful network, and a dedicated concierge service. Whether you're an early-stage entrepreneur or an experienced leader, we provide a 360° support system across technology, talent, and business —eliminating the chaos that often comes with startup journeys. We want the experimenter to experiment, innovator to innovate and the visionary to serve their vision, without tech, time, expertise, knowledge, high costs and lost opportunities being hurdles anymore. Hence we are not only making next-gen engineering tools available to all, we are also working closely with select tech orgs in helping them modernize in 11x way to become effective, faster and agile.",
+    "Why": [
+      "AI-powered, production-ready backend tools",
+      "Unified cloud-agnostic deployment",
+      "Next-gen developer productivity infrastructure",
+      "360° startup ecosystem support"
+    ],
+    "Why2": [
+      "Dedicated startup concierge and mentorship",
+      "Efficient collaboration between tech, business, and talent",
+      "Seamless cloud integration and local-cloud workflows",
+      "Pre-built integrations and developer community assets"
+    ]
+  },
+  "Services": [
+    {
+      "icon": "fa fa-cogs",
+      "name": "4th Generation Meta Framework",
+      "text": "Empower younger engineers to build production-ready backends and agentic workflows 10x faster with guardrails. Develop with confidence, accelerate delivery, and maintain high-quality standards effortlessly."
+    },
+    {
+      "icon": "fa fa-cloud",
+      "name": "Unified Cloud Delivery Platform",
+      "text": "Easily set up lightweight environments or handle scalable loads over K3s/K8s on any supported cloud. Get a frictionless deployment experience while keeping infrastructure lean, efficient, and cloud-agnostic."
+    },
+    {
+      "icon": "fa fa-desktop",
+      "name": "AI enabled Web-based Studio",
+      "text": "After revolutionizing backend development with our meta-framework, we're now bringing the same power to a UI-based studio — enabling faster development with AI-powered project creation, automated code reviews, real-time debugging, and seamless local-to-cloud workflow management."
+    },
+    {
+      "icon": "fa fa-puzzle-piece",
+      "name": "Pre-built Integrations & Project Templates",
+      "text": "Leverage ready-made templates and integrations for distributed backends and multi-agent AI applications — built in collaboration with the developer community. Reduce setup time and focus on innovation."
+    },
+    {
+      "icon": "fa fa-tasks",
+      "name": "Teams Dashboard",
+      "text": "Manage projects, sprints and feedback in one place. Streamline workflows, enhance collaboration and ensure smooth execution from development to deployment."
+    }
+  ],
+  "Vision": "At Godspeed, we envision a future where founders and startups thrive in the post-AI era through collaboration and innovation —driving progress and making the world a better place.",
+  "Mission": "We democratize product development by continuously evolving our technology and AI infrastructure, fostering a collaborative ecosystem that connects founders, investors and experts to drive mutual growth.",
+  "TechOfferings": {
+    "MetaFramework": "Empower younger engineers to build production-ready backends and agentic workflows 10x faster with guardrails. Develop with confidence, accelerate delivery, and maintain high-quality standards effortlessly.",
+    "CloudDelivery": "Easily set up lightweight environments or handle scalable loads over K3s/K8s on any supported cloud. Get a frictionless deployment experience while keeping infrastructure lean, efficient, and cloud-agnostic.",
+    "WebStudio": "After revolutionizing backend development with our meta-framework, we're now bringing the same power to a UI-based studio —enabling faster development with AI-powered project creation, automated code reviews, real-time debugging, and seamless local-to-cloud workflow management.",
+    "Templates": "Leverage ready-made templates and integrations for distributed backends and multi-agent AI applications—built in collaboration with the developer community. Reduce setup time and focus on innovation.",
+    "TeamsDashboard": "Manage projects, sprints and feedback in one place. Streamline workflows, enhance collaboration and ensure smooth execution from development to deployment."
+  },
+  "Team": [
+    {
+      "img": "https://res.cloudinary.com/dfuwiecz0/image/upload/v1696838236/Team%20photos/ayush_figios.jpg",
+      "name": "Ayush Ghai",
+      "job": "Chief Alchemist",
+      "description": "An IIT-Kanpur alumnus, techie and serial founder, Ayush serves as a motivational speaker, life coach and startup coach, driven by a mission to build a better future through community and social impact initiatives."
+    },
+    {
+      "img": "https://godspeed.systems/files/aksharGhaiPic2.jpeg",
+      "name": "Akshar Ghai",
+      "job": "Backstage Brain",
+      "description": "As CEO of Almamet India, where he established and scaled the company to profitability, he provides invaluable behind-the-scenes strategic advisory on core business aspects at Godspeed."
+    },
+    {
+      "img": "https://godspeed.systems/files/alexander1.JPG",
+      "name": "Alexander Rhomberg",
+      "job": "Angel with a ChequeBook",
+      "description": "Co-founder of Almamet GMBH, Alexander brings 40 years of experience building and scaling multinational businesses to his role as Godspeed's angel investor and advisor."
+    },
+    {
+      "img": "https://godspeed.systems/files/tanvirWalia.jpg",
+      "name": "Tanvir Walia",
+      "job": "The Startup Sherpa",
+      "description": "With an MBA from Harvard and a B.Tech from IIT Kanpur, Tanvir is the Head of Startups for Singapore and ASEAN at AWS, and a mentor bringing business development, marketing, and growth expertise."
+    },
+    {
+      "img": "https://godspeed.systems/files/viditPic.jpeg",
+      "name": "Vidit Chaudhary",
+      "job": "Chief Do-O",
+      "description": "A 15-year veteran of the startup world, bringing meticulous process orientation and a results-driven approach to Godspeed's operations."
+    },
+    {
+      "img": "https://godspeed.systems/files/ashutosh.jpg",
+      "name": "Ashutosh Tripathi",
+      "job": "Devx Spell Caster",
+      "description": "A seasoned senior developer renowned for his mentorship skills, guiding junior team members toward success."
+    },
+    {
+      "img": "https://godspeed.systems/files/rajatTripathi.jpg",
+      "name": "Rajat Tripathi",
+      "job": "AI Hacker",
+      "description": "A problem-solving expert, Rajat consistently finds innovative solutions to even the most complex development challenges."
+    },
+    {
+      "img": "https://godspeed.systems/files/sakshiArora.jpeg",
+      "name": "Sakshi Arora",
+      "job": "Scrum Boss",
+      "description": "Dedicated to development and task management, she ensures seamless product delivery by excelling in product testing and maintaining a keen eye for detail."
+    },
+    {
+      "img": "https://godspeed.systems/files/yaswanth.jpg",
+      "name": "Yaswanth",
+      "job": "Quantum Coder",
+      "description": "A highly creative developer with a knack for elegant code solutions, specializing in optimizing application performance."
+    },
+    {
+      "img": "https://godspeed.systems/files/pushpendra.jpg",
+      "name": "Pushpendra Singh",
+      "job": "Dev Engagement Sorcerer",
+      "description": "An exceptional communicator and community builder, fostering thriving partnerships with developers worldwide."
+    },
+    {
+      "img": "https://godspeed.systems/files/dharuv.jpeg",
+      "name": "Dharuv Manchanda",
+      "job": "Full Stack Hustler",
+      "description": "For Dharuv, coding isn't just a job—it's a passion. This budding full-stack developer brings energy and enthusiasm to every project."
+    },
+    {
+      "img": "https://godspeed.systems/files/sanjay.jpeg",
+      "name": "Sanjay Kapoor",
+      "job": "Nourishing Caretaker",
+      "description": "An exceptional communicator and community builder, fostering thriving partnerships with developers worldwide."
+    }
+  ],
+  "Pricing": [
+    {
+      "name": "Starter",
+      "price": "$0 / mo",
+      "features": [
+        "Access to all core features",
+        "Community support",
+        "1 project & 1 user",
+        "Basic deployment tools"
+      ]
+    },
+    {
+      "name": "Pro",
+      "price": "$49 / mo",
+      "features": [
+        "Unlimited projects & users",
+        "Priority support",
+        "AI-powered web studio",
+        "Cloud deployment pipeline"
+      ]
+    },
+    {
+      "name": "Enterprise",
+      "price": "Custom Pricing",
+      "features": [
+        "Dedicated support & onboarding",
+        "Self-hosted deployment",
+        "Role-based access control",
+        "Integration with custom tools"
+      ]
+    }
+  ],
+  "Contact" : {
+    "address" : "Dharamshala, India",
+    "email" : "ayush@godspeed.systems",
+    "phone" : "+91 9999999999",
+    "facebook" : "https://github.com/godspeedsystems",
+    "youtube" : "https://twitter.com/GodspeedSystem",
+    "twitter" : "https://www.linkedin.com/company/godspeed-systems/"
+  }
+  
+}

@@ -1,0 +1,19 @@
+product
+
+
+Unlock the next-generation backend framework, AI-powered development and seamless cloud deployment - all in one platform.  
+4th Generation Meta Framework
+Empower younger engineers to build production-ready backends and agentic workflows 10x faster with guardrails. Develop with confidence, accelerate delivery, and maintain high-quality standards effortlessly.
+
+
+Unified Cloud Delivery Platform
+Easily set up lightweight environments or handle scalable loads over K3s/K8s on any supported cloud. Get a frictionless deployment experience while keeping infrastructure lean, efficient, and cloud-agnostic.
+
+AI enabled Web-based Studio
+After revolutionizing backend development with our meta-framework, we're now bringing the same power to a UI-based studio —enabling faster development with AI-powered project creation, automated code reviews, real-time debugging, and seamless local-to-cloud workflow management.
+
+Pre-built Integrations and Project templates
+Leverage ready-made templates and integrations for distributed backends and multi-agent AI applications—built in collaboration with the developer community. Reduce setup time and focus on innovation.
+
+Teams Dashboard
+Manage projects, sprints and feedback in one place. Streamline workflows, enhance collaboration and ensure smooth execution from development to deployment.

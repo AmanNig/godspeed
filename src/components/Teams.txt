@@ -1,0 +1,96 @@
+cards: add photo also to every card.
+1.
+
+Ayush Ghai
+
+Chief Alchemist
+
+An IIT-Kanpur alumnus, techie and serial founder, Ayush serves as a motivational speaker, life coach and startup coach, driven by a mission to build a better future through community and social impact initiatives.
+
+2.
+
+Akshar Ghai
+
+Backstage Brain
+
+As CEO of Almamet India, where he established and scaled the company to profitability, he provides invaluable behind-the-scenes strategic advisory on core business aspects at Godspeed.
+
+3.
+
+Alexander Rhomberg
+
+Angel with a ChequeBook
+
+Alexander Rhomberg, co-founder of Almamet GMBH, brings 40 years of experience building and scaling multinational businesses to his role as Godspeed's angel investor and advisor.
+
+4.
+
+Tanvir Walia
+
+The Startup Sherpa
+
+With an MBA from Harvard Business School and a B.Tech from IIT Kanpur, Tanvir Walia is the Head of Startups for Singapore and ASEAN Growth Markets at AWS. As a startup mentor, he brings a wealth of experience in business development, marketing, and growth hacking to Godspeed.
+
+5.
+
+Vidit Chaudhary
+
+Chief Do-O
+
+A 15-year veteran of the startup world, bringing meticulous process orientation and a results-driven approach to Godspeed's operations.
+
+6.
+
+Ashutosh Tripathi
+
+Devx Spell Caster
+
+A seasoned senior developer renowned for his mentorship skills, guiding junior team members toward success.
+
+7.
+
+Rajat Tripathi
+
+AI Hacker
+
+A problem-solving expert, Rajat consistently finds innovative solutions to even the most complex development challenges.
+
+8.
+
+Sakshi Arora
+
+Scrum Boss
+
+Dedicated to development and task management, she ensures seamless product delivery by excelling in product testing and maintaining a keen eye for detail.
+
+9.
+
+Yaswanth
+
+Quantum Coder
+
+A highly creative developer with a knack for elegant code solutions, specializing in optimizing application performance.
+
+10.
+
+Pushpendra Singh
+
+Dev Engagement Sorcerer
+
+An exceptional communicator and community builder, fostering thriving partnerships with developers worldwide.
+
+11.
+
+Dharuv Manchanda
+
+Full Stack Hustler
+
+For Dharuv, coding isn't just a job—it's a passion. This budding full-stack developer rings energy and enthusiasm to every project.
+
+12.
+
+Sanjay Kapoor
+
+Nourishing Caretaker
+
+An exceptional communicator and community builder, fostering thriving partnerships with developers worldwide.
