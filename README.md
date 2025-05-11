@@ -138,9 +138,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
+Your Name - Aman Nigam
 
-Project Link: [https://github.com/yourusername/react-landing-page-template](https://github.com/yourusername/react-landing-page-template)
+Project Link: [Demo Here](https://github.com/yourusername/react-landing-page-template)
 
 ## 🙏 Acknowledgments
 
