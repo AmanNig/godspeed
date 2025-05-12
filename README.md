@@ -22,12 +22,12 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/react-landing-page-template.git
+git clone https://github.com/amannigam/react-godspeed-landing-page.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd react-landing-page-template
+cd react-godspeed-landing-page
 ```
 
 3. Install dependencies:
