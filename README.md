@@ -1,6 +1,6 @@
 # GodSpeed Landing Page
 
-A modern, responsive landing page template built with React.js, featuring a clean design and smooth animations.
+A modern, responsive landing page for GodSpeed Systems built with React.js, featuring a clean design and smooth animations.
 
 ## 🚀 Features
 
